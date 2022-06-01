@@ -1,6 +1,7 @@
 ---
 layout: post
-title: You're up and running!
+title: Mé Féin: The emergence and potential of lone-wolf violent dissident republicanism[image](https://user-images.githubusercontent.com/63151553/171446352-f6a232aa-6017-4007-a431-0a618d907311.png)
+
 ---
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
