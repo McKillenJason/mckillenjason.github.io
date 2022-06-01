@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Mé Féin: The emergence and potential of lone-wolf violent dissident republicanism
-
 ---
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
