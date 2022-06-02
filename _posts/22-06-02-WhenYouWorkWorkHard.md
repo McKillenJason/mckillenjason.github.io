@@ -32,4 +32,3 @@ If you’re a deep worker like me, how can you achieve a situation where when yo
 
   
 Finally, if you’re using your non-working time to improve yourself through other means, make that clear. My next job heard that I was using this added time for my studies and worked with me to structure my workload in a way that reduced my stress levels come exam time. Sometimes, they appreciate sprinters.
-</div>
