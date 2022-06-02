@@ -1,15 +1,14 @@
 ---
 layout: page
-title: About
+title: Contact 
 permalink: /about/
 ---
 
-Some information about you!
+I am a hermit and do not check my emails regularly. If I take longer to reply and your request is urgent, sorry.
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[jmckillen04@qub.ac.uk](mailto:jmckillen04@qub.ac.uk)
